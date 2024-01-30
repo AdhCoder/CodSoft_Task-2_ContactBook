@@ -24,9 +24,8 @@ python contact_book.py
 
 ## Tech Stack
 Python
+
 tkinter for GUI
 ttkthemes for themes
-Feedback
-Feedback and contributions are welcome.
 
-Happy coding!
+## Happy coding!
